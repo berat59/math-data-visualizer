@@ -1,2 +1,2 @@
 # math-data-visualizer
-A Python tool to visualize numerical data using line plots with Matplotlib.
+A Python-based tool that transforms numerical data into professional visualizations using *Matplotlib*.
